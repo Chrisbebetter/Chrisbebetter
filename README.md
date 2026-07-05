@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-Frontend engineer. Dangerously skips permissions. Building products, not just features.
+Dangerously skips permissions. Building products, not just features.
 
 AI handles the repetition. I focus on problems, experiences, and products.
 
