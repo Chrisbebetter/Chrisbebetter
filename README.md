@@ -1,7 +1,9 @@
-# 你好👋，我是 Chris
+# Hi 👋, I'm Chris
 
-前端工程师、AI Agent 玩家，正在成为更好的产品经理。
+**English** · [中文](README.zh-CN.md)
 
-AI 让我告别重复劳动，专注于问题、体验与创造。
+I'm a frontend engineer who spends a lot of time building with AI agents—and I'm becoming a better product manager along the way.
 
-**在 AI 时代，一切都值得重做。**
+AI frees me from repetitive work so I can focus on understanding problems, crafting experiences, and creating products.
+
+**In the age of AI, everything is worth rebuilding.**
