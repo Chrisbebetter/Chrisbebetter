@@ -2,8 +2,8 @@
 
 **English** · [中文](README.zh-CN.md)
 
-Dangerously skips permissions. Building products, not just features.
+Dangerously skips permissions. I build products, not just features.
 
-AI handles the repetition. I focus on problems, experiences, and products.
+AI handles the busywork. I focus on crafting better experiences and products.
 
-**In the age of AI, we should always ask: is this still the right way?**
+**In the age of AI, we should keep asking: Should we still be doing this the same way?**
